@@ -1,1 +1,1 @@
-# magicshop_selfDesignedGame
+# Box Class
